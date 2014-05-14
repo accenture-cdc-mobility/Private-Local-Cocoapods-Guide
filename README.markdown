@@ -83,3 +83,7 @@ pod 'NSView+SubviewExtension', '1.0.1'
 ```
 
 Start the git-daemon before calling `pod install`.
+
+## License
+
+I do not gurantee that the described steps can not damage anything on your machine like set up servers or something. This guide is covered by MIT license.
